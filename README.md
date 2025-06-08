@@ -1,6 +1,6 @@
 # Its me, MnM
 
-![My Image](github-profile-pic.png)
+![My Image](github-profile-pic2.png)
 
 
 Welcome to my GitHub profile!  
