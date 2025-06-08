@@ -1,5 +1,7 @@
 # Its me, MnM
 
+![My Image](github-profile-pic.png)
+
 
 Welcome to my GitHub profile!  
 I'm passionate about software development and love building projects that solve real-world problems. Here you’ll find a variety of my works spanning web, DevOps, machine learning, and systems programming.
