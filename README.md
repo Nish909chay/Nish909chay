@@ -12,7 +12,7 @@ I’m always up for a challenge, and I enjoy collaborating with others, especial
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 Based on my projects, here are some of the key skills and technologies I’ve learned and applied:
 
@@ -44,7 +44,7 @@ Based on my projects, here are some of the key skills and technologies I’ve le
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - [jenkins-remoting](https://github.com/Nish909chay/jenkins-remoting)  
   Full-stack DevOps tool for real-time Jenkins server communication using Spring Boot and React.
