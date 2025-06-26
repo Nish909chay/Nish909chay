@@ -68,6 +68,6 @@ Based on my projects, here are some of the key skills and technologies I’ve le
   Simple and effective to-do list app built with JavaScript.
 
 > **Note:**  
-> Only 10 out of my 15 repositories are shown here.  
+> Only a few repositories are shown here.  
 > See all my projects on my [GitHub repositories page](https://github.com/search?q=user%3ANish909chay&sort=updated&type=repositories).
 
